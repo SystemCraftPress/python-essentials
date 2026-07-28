@@ -8,6 +8,8 @@ A concise, practical guide for developers. Part of the SystemCraft™ Companion 
 
 ## About this Repository
 
+<img align="right" width="180" src="preview/cover-thumbnail.png" alt="Python Essentials Companion Guide cover">
+
 This repository is the companion to the **Python Essentials Companion Guide** — a practical, no-fluff reference for developers who want to actually understand Python, not just copy syntax.
 
 It's free and open: a cheat sheet, quick-reference tables, worked examples, hands-on exercises, and diagrams covering core Python — data types, data structures, control flow, functions, classes, and error handling.
@@ -66,6 +68,7 @@ python-essentials/
 │   └── project-setup-flow.md
 └── preview/
     ├── cover.png
+    ├── cover-thumbnail.png
     └── page-spread.png
 ```
 
