@@ -36,6 +36,10 @@ Use code **GITHUB10** at checkout for 10% off. Learn more at [systemcraftpress.c
 
 The full guide adds the material this repo doesn't cover for free: the complete 11-section walkthrough, scenario-based troubleshooting for common panic moments, and the full Python glossary.
 
+## From the Blog
+
+[How to Read a Python Traceback Without Panicking](https://systemcraftpress.com/blog/how-to-read-a-python-traceback/?utm_source=github&utm_medium=readme&utm_content=blog_post&utm_campaign=python-essentials) — a free walkthrough of reading a traceback bottom-to-top instead of panicking at the wall of red text, pulled from this guide.
+
 ## What Is In This Repo
 
 - **`cheatsheet/`** — a free one-page Python cheat sheet: core types, data structures, control flow, and golden rules
@@ -94,6 +98,8 @@ Each Companion Guide combines concise explanations, real-world examples, trouble
 This repository accompanies the **Python Essentials Companion Guide** and provides supplemental resources, examples, and updates that complement the book.
 
 Learn more about the Companion Guides series at the links above.
+
+Want new posts and the occasional discount code by email? [Subscribe to the newsletter](https://systemcraftpress.com/blog/?utm_source=github&utm_medium=readme&utm_content=newsletter&utm_campaign=python-essentials).
 
 ## License
 
